@@ -1,0 +1,6 @@
+[submodule "try-git-rebase"]
+	path = try-git-rebase
+	url = https://github.com/CarlosCCQ/try-git-rebase.git
+[submodule "try-cherry-pick"]
+	path = try-cherry-pick
+	url = https://github.com/CarlosCCQ/try-cherry-pick.git
