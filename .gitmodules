@@ -4,3 +4,6 @@
 [submodule "try-cherry-pick"]
 	path = try-cherry-pick
 	url = https://github.com/CarlosCCQ/try-cherry-pick.git
+[submodule "scrum-workflow"]
+	path = scrum-workflow
+	url = https://github.com/CarlosCCQ/scrum-workflow.git
